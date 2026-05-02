@@ -13,11 +13,11 @@
 - [atmask/loom](https://github.com/atmask/loom): Not yet released - An elegant RSS reader with minimal dependencies in Go
 
 💬 **My Recent Blog Posts**:
-- [Visual: URL Shortener Design](https://blog.fallow.app/posts/08-url-shortener/)
-- [ZFS: A Primer](https://blog.fallow.app/posts/07-zfs-primer/)
-- [Dependency Injection In Go](https://blog.fallow.app/posts/06-go-dependency-injection/)
-- [Intro to K8s Autoscaling](https://blog.fallow.app/posts/05-intro-to-k8s-autoscaling/)
-- [CIDR and IPv4](https://blog.fallow.app/posts/04-understanding-ipv4-addressing/)
+- [Visual: URL Shortener Design](https://benmask.com/posts/08-url-shortener/)
+- [ZFS: A Primer](https://benmask.com/posts/07-zfs-primer/)
+- [Dependency Injection In Go](https://benmask.com/posts/06-go-dependency-injection/)
+- [Intro to K8s Autoscaling](https://benmask.com/posts/05-intro-to-k8s-autoscaling/)
+- [CIDR and IPv4](https://benmask.com/posts/04-understanding-ipv4-addressing/)
 
 📫 **How to reach me**:
-- Blog: https://blog.fallow.app/
+- Blog: https://benmask.com
