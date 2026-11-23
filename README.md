@@ -7,6 +7,7 @@
 🔭 **I’m currently working on**:
 - [Bare-Metal K3s Cluster](https://blog.fallow.app/posts/02-bare-metal-k3s-on-rpi-part-1/)
 - [atmask/containix](https://github.com/atmask/containix): A containerd shim that enables running Nix flakes in K8s Pods
+- [atmask/haos-netinstall](https://github.com/atmask/haos-netinstall): Install HAOS over the network using PXE
 - [atmask/sops.vim](https://github.com/atmask/sops.nvim): Neovim plugin for transparent encrypt/decrypte of sops files
 - [atmask/mooz](https://github.com/atmask/mooz): Web-RTC Video Calling App
 - [atmask/sparrow](https://github.com/atmask/sparrow): GitOps Helm Chart Management
